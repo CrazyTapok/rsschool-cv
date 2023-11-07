@@ -2,6 +2,7 @@
 ## Frontend Developer
 
 ### Contact information:
+----
 
 **Phone:** +375 (29) 225-79-98  
 **Telegram:** @dima_markovich  
@@ -11,10 +12,12 @@
 
 
 ### Summary
+----
 
-I'm a Junior Developer, hardworking, responsible, able to learn quickly, purposeful and plodding. I don’t have much work experience, but I have a great desire to get this experience. I will be glad to work with you!
+I'm a beginner developer. I am proficient in the C# and JavaScript programming languages, worked with the ASP.Net Core framework, MS SQL Server and MySQL, HTML/CSS. Completed an internship at EpolSoft. Worked as a database administrator at the Brest Regional Library. M. Gorky, was involved in the development of websites, setting up networks and maintaining software. Completed courses from IT-Academy, developing web applications in JavaScript, as well as developing websites using HTML, CSS and JavaScript.
 
 ### Skills
+----
 
 - C#
 - .Net
@@ -29,6 +32,7 @@ I'm a Junior Developer, hardworking, responsible, able to learn quickly, purpose
 - Git
 
 ### Code Examples
+----
 
 Implement the alternate function, which will take an array as the first parameter, and callbacks as the second and third. The function must apply callbacks to the array elements in turn. That is: for the first element - the first callback, for the second element - the second callback, for the third - the first callback again, and so on until the array elements run out.
 
@@ -62,6 +66,7 @@ Implement the alternate function, which will take an array as the first paramete
 ```
 
 ### Work Experience
+----
 
 **Limited Liability Company "EUROTORG"**  
 System Analyst  
@@ -73,12 +78,13 @@ Database administrator
 18/05/2020 – 01/07/2022
 
 
-**Trained in the company «EpolSoft»**
-Trainee .Net Developer
+**Trained in the company «EpolSoft»**  
+Trainee .Net Developer  
 10/02/2020 – 21/03/2020    
 Developed a client-server application. Work with ASP.Net Core, MVC pattern, Entity Framework (EF) Core, HTML/CSS, Bootstrap.
 
 ### Education
+----
 
 **IT Academy**    
 09/02/2022 - 01/06/2022    
@@ -95,6 +101,7 @@ Website development with HTML, CSS & JavaScript
 Physics and Mathematics, Applied Mathematic 
 
 ### English Language
+----
 
 - English: Intermediate (B1)
 - Russian: Native
