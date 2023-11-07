@@ -1,1 +1,1 @@
-https://crazytapok.github.io/rsschool-cv/
+# rsschool-cv
