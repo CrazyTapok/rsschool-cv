@@ -1,6 +1,5 @@
 # Dmitry Markovich
----
-### Frontend Developer
+## Frontend Developer
 ---
 ### Contact information:
 
@@ -13,4 +12,100 @@
 ---
 
 ### Summary
+---
+
+I'm a Junior Developer, hardworking, responsible, able to learn quickly, purposeful and plodding. I don’t have much work experience, but I have a great desire to get this experience. I will be glad to work with you!
+
+---
+
+### Skills
+---
+
+- C#
+- .Net
+- OOP
+- JavaScript
+- ASP.Net Core
+- Entity Framework (EF) Core
+- WPF
+- HTML5/CSS3
+- MySQL
+- MS SQL Server
+- Git
+---
+
+### Code Examples
+---
+
+Implement the alternate function, which will take an array as the first parameter, and callbacks as the second and third. The function must apply callbacks to the array elements in turn. That is: for the first element - the first callback, for the second element - the second callback, for the third - the first callback again, and so on until the array elements run out.
+
+\```JavaScript
+  function alternate(array, cb1, cb2) {
+
+    let answer = []
+
+    for (let i = 0; i < array.length; i++) {
+      if (i % 2 === 0) {
+        answer.push(cb1(array[i]))
+      } else {
+        answer.push(cb2(array[i]))
+      }
+    }
+
+    return answer
+  }
+
+  let result = alternate(
+    ['a', 'b', 'c', 'd', 'e', 'r'],
+    function(elem) {
+      return elem + '!';
+    },
+    function(elem) {
+      return elem + '?';
+    },
+  );
+
+  console.log(result); // ['a!', 'b?', 'c!', 'd?', 'e!']
+\```
+
+---
+
+### Work Experience
+---
+
+##### Limited Liability Company "EUROTORG"
+###### System Analyst
+**08/12/2022 – Present**  
+
+
+##### Brest Regional Library M. Gorky  
+###### Database administrator  
+**18/05/2020 – 01/07/2022**  
+
+##### Trained in the company «EpolSoft»
+###### Trainee .Net Developer
+**10/02/2020 – 21/03/2020**  
+Developed a client-server application. Work with ASP.Net Core, MVC pattern, Entity Framework (EF) Core, HTML/CSS, Bootstrap.
+
+---
+
+### Education
+---
+
+##### IT Academy
+**09/02/2022 - 01/06/2022**  
+Web application development with JavaScript
+
+##### IT Academy
+**11/10/2021 - 13/01/2022**  
+Website development with HTML, CSS & JavaScript
+
+##### Brest State University named after A.S. Pushkin
+**2016 - 2020**  
+Physics and Mathematics, Applied Mathematic 
+
+---
+
+### English Language
+---
 
